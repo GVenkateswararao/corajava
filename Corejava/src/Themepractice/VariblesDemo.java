@@ -12,6 +12,10 @@ class Employee{
 	 double salary;
 	 String compinyname;
 	 char male;
+	public int getSalary() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }
 
 public class VariblesDemo {
